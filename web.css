@@ -1,0 +1,30 @@
+/* CSS declarations go here */
+body {
+    padding-top: 60px;
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.navbar {
+background-color: #fff;
+}
+.container {
+max-width: 1024px;
+}
+.nav.navbar-nav.pull-right {
+padding-right: 30px;
+}
+.bsg-container {
+max-width: 1100px;
+margin: auto;
+}
+
+.col-md-6 {
+text-align: center;
+min-width: 50%;
+margin: 60px auto;
+}
+
+.thumbnail {
+width: 400px;
+height: 300px;
+margin: auto;
+}
